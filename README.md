@@ -1,6 +1,6 @@
 # 📓Journal App Memly
 
-This is a personal journal app built using Next.js 15 and Prisma with a PostgreSQL database. The app allows users to create, manage, and analyze journal entries, providing insights based on their mood and thoughts. Users can securely authenticate via Clerk and interact with the app using a beautifully designed UI powered by Tailwind CSS and ShadCN. The app also integrates Arject for bot protection.
+This is a personal journal app built using Next.js 15 and Prisma with a PostgreSQL database. The app allows users to create, manage, and analyze journal entries, providing insights based on their mood and thoughts.
 
 Demo: https://journal-app-pi-one.vercel.app/
 
